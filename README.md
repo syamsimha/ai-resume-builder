@@ -1,7 +1,7 @@
 # AI RESUME BUILDERS
 ## Home Page
 
-![AI Resume Builder](Screenshot%202026-07-04%20190621.png)
+![AI Resume Builder](homepage.png)
 
 A complete, production-ready AI-powered resume builder — built with **React 18**, **React Router**, and **Tailwind CSS**. Create, customize, preview and export ATS-friendly resumes using 10 professional templates, an in-browser AI writing assistant, and a real-time ATS scoring engine.
 
